@@ -339,7 +339,7 @@ footer h4 {
     transition: background-color 0.15s ease;
 }
 
-.newsletter .input-wrapper button:hover {background-color: rgb(212, 0, 0); }
+.newsletter .input-wrapper button:hover {background-color: rgb(212, 0, 0)}
 
 .fake-social-links .icons-wrapper {
     display: flex;
